@@ -1,0 +1,422 @@
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.PrintWriter;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.ArrayList;
+
+public class Server {
+    public static class Pharmacy {
+        private String Name;
+        private String For;
+        private String pharmacy;
+        private String location;
+
+        public Pharmacy(String name, String forwhat, String pharmacy, String location) {
+            setName(name);
+            setFor(forwhat);
+            setPharmacy(pharmacy);
+            setLocation(location);
+        }
+        public String getLocation() {
+            return location;
+        }
+        public void setLocation(String location) {
+            this.location = location;
+        }
+        public String getPharmacy() {
+            return pharmacy;
+        }
+        public void setPharmacy(String pharmacy) {
+            this.pharmacy = pharmacy;
+        }
+        public String getFor() {
+            return For;
+        }
+        public void setFor(String aFor) {
+            this.For = aFor;
+        }
+
+        public void setName(String name) {
+            if(!name.isEmpty())
+                this.Name = name;
+            else
+                System.out.println("you must type a name ");
+        }
+        public String getName() {
+            return Name;
+        }
+    }
+    public static class CronaCheek {
+        private String name ;
+        private int Temperature;
+        private int Stomic;
+        private int Fever;
+        private int hedic;
+
+
+        public CronaCheek(String pa,int te,int st,int fe,int he){
+            setName(pa);
+            setTemperature(te);
+            setStomic(st);
+            setFever(fe);
+            setHedic(he);
+        }
+        public int getHedic() {
+            return hedic;
+        }
+
+        public void setHedic(int hedic) {
+            String stomic1="you are not good you must go to doctor";
+            String stomic2="you are good man";
+            if(hedic==0){
+                System.out.println(stomic2);
+                this.hedic=hedic;
+            }
+            else
+                System.out.println(stomic1);
+            this.hedic=hedic;
+        }
+        public int getFever() {
+            return Fever;
+        }
+
+        public void setFever(int fever) {
+            String stomic1="you are not good you must go to doctor";
+            String stomic2="you are good man";
+            if(fever==0){
+                System.out.println(stomic2);
+                this.Fever=fever;
+            }
+            else
+                System.out.println(stomic1);
+            this.Fever=fever;
+        }
+        public int getStomic() {
+            return Stomic;
+        }
+
+        public void setStomic(int stomic) {
+            String stomic1="you are not good you must go to doctor";
+            String stomic2="you are good man";
+            if(stomic==0){
+                System.out.println(stomic2);
+                this.Stomic=stomic;
+            }
+            else
+                System.out.println(stomic1);
+            this.Stomic=stomic;
+        }
+
+
+        public int getTemperature() {
+            return Temperature;
+        }
+
+        public void setTemperature(int temperature) {
+            String te="you are not good you must go to doctor \n you must take برامول or بروفين";
+            if(temperature<37){
+                System.out.println(te);
+                this.Temperature=temperature;
+            }
+
+            else if(temperature==37){
+                String te2="you are good man";
+                System.out.println(te2);
+                this.Temperature=temperature;
+            }
+            else
+                System.out.println("you are not good you must go to doctor \n you must take برامول or بروفين");
+            this.Temperature=temperature;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            if(!name.isEmpty())
+                this.name = name;
+            else
+                System.out.println("you must type a name ");
+        }
+    }
+    public static class Cronaa {
+        private ArrayList<CronaCheek> Crona = new ArrayList<>();
+
+        //add
+        public void add2(CronaCheek x) {
+            Crona.add(x);
+        }
+
+        //display
+        public String displayy() {
+            String display = "";
+            for (int i = 0; i < Crona.size(); i++) {
+                display += "hi my paitant : " + Crona.get(i).getName() + "     ||      " +
+                        Crona.get(i).getStomic() + "    ||     " +
+                        Crona.get(i).getTemperature() + "     ||     " +
+                        Crona.get(i).getFever() + "    ||     " +
+                        Crona.get(i).getHedic() + "\n";
+            }
+
+            return display;
+        }
+
+        public String display_tempreture() {
+            String te1="you are not good you must go to doctor \n you must take برامول or بروفين\n";
+            String te2="حراه زى الفل ";
+            for (int z = 0; z < Crona.size(); z++) {
+                if (Crona.get(z).getTemperature() == 37) {
+                    System.out.println("your tempereture is good ");
+                    return te2;
+                } else
+                    System.out.println("you are not good you must go to doctor \n you must take برامول or بروفين");
+                return te1;
+            }
+            return display_tempreture();
+        }
+        public String display_stomic() {
+            String te1="you are not good you must go to doctor";
+            String te2="بطنك زى الفل اهه يءمر";
+            for (int z = 0; z < Crona.size(); z++) {
+                if (Crona.get(z).getStomic() == 0) {
+                    System.out.println("مانت زى الفل اهه يءمر");
+                    return te2;
+                } else
+                    System.out.println("you are not good you must go to doctor");
+                return te1;
+            }
+            return display_stomic();
+        }
+        public String display_fever() {
+            String te1="you are not good you must go to doctor";
+            String te2="سخونيتك زى الفل اهه يءمر";
+            for (int z = 0; z < Crona.size(); z++) {
+                if (Crona.get(z).getFever() == 0) {
+                    System.out.println("مانت زى الفل اهه يءمر");
+                    return te2;
+                } else
+                    System.out.println("you are not good you must go to doctor");
+                return te1;
+            }
+            return display_fever();
+        }
+        public String display_hedic() {
+            String te1="you are not good you must go to doctor";
+            String te2="صداعك زى الفل اهه يءمر";
+            for (int z = 0; z < Crona.size(); z++) {
+                if (Crona.get(z).getHedic() == 0) {
+                    System.out.println("مانت زى الفل اهه يءمر");
+                    return te2;
+                } else
+                    System.out.println("you are not good you must go to doctor");
+                return te1;
+            }
+            return display_hedic();
+        }
+
+
+        //ارشادات
+        public String advance(){
+            String advanece="\n للمساعدة في منع انتشار مرض كوفيد-19: \n" +
+                    "    1-  اغسِل يديك باستمرار. واستخدِم الماء والصابون أو محلولاً كحولياً لتعقيم اليدين.    \n " +
+                    "       2 - ابتعِد مسافةً آمنة عن أي شخص يسعل أو يعطس.    \n " +
+                    "3  - ضَع كمامة عندما لا يكون التباعد الجسدي ممكناً.   \n  " +
+                    "     4- لا تلمس عينيك أو أنفك أو فمك.   \n  " +
+                    "     5- احرص على تغطية أنفك وفمك بكوعك أو بمنديل ورقي عند السعال أو العطس.   \n  " +
+                    "   6 - ابقَ في المنزل إذا شعرت بالمرض.    \n  " +
+                    "   7 -  اطلب الرعاية الطبية إذا كنت مصاباً بالحمى والسعال وصعوبة التنفس.    \n   ";
+            return advanece;
+        }
+
+        //delete
+        public void remove_pa(){
+            for(int i=0;i< Crona.size();i++){
+                if (!Crona.isEmpty()){
+                    Crona.remove(i);
+                }
+            }
+        }
+    }
+    public static class CronaBrain {
+        private ArrayList<Pharmacy> pharmacieslist=new ArrayList<Pharmacy>();
+
+        //add
+        public void add (Pharmacy medi ){
+            pharmacieslist.add(medi);
+        }
+        //delete
+        public void remove(int medicine){
+            pharmacieslist.remove((medicine));
+        }
+        //display
+        public  String display(){
+            String display="";
+            for(int i=0;i< pharmacieslist.size();i++){
+                display+=(i+1)+"-"+pharmacieslist.get(i).getName()+"||"+
+                        pharmacieslist.get(i).getFor()+"||"+
+                        pharmacieslist.get(i).getLocation()+"||"+
+                        pharmacieslist.get(i).getPharmacy()+"\n";
+            }
+
+            return display;
+        }
+        //update
+        public void update (int x ,Pharmacy newPharmacy){
+            pharmacieslist.set(x,newPharmacy);
+        }
+
+    }
+    public static void main(String[] args) {
+        try {
+            int port=12;
+            CronaBrain brain= new CronaBrain();
+            Cronaa ch=new Cronaa();
+            ServerSocket ServerSocket = new ServerSocket(port);
+            System.out.println("wating for client connetion");
+            Socket connectionSoket = ServerSocket.accept();
+            System.out.println("connected");
+            DataInputStream input = new DataInputStream(connectionSoket.getInputStream());
+            DataOutputStream outputStream=new DataOutputStream(connectionSoket.getOutputStream());
+            loop: while (true){
+                int message = input.readInt();
+                switch (message) {
+                    case 1:
+                        // add
+                        System.out.println("what is the medicine do you want to add it ?");
+                        //taking input from clint
+                        String name= input.readUTF();
+                        String forwhat= input.readUTF();
+                        String phar = input.readUTF();
+                        String location= input.readUTF();
+                        //add it to array
+                        Pharmacy newbrain=new Pharmacy(name,forwhat,phar,location);
+                        brain.add(newbrain);
+                        break;
+                    case 2:
+                        //remove
+                        System.out.println("what is the medicine do you want to remove it ?");
+                        // display items to user
+                        String mediciner= brain.display();
+                        outputStream.writeUTF(mediciner);
+                        if(!mediciner.isEmpty()){
+                            DataInputStream remove = new DataInputStream(connectionSoket.getInputStream());
+                            int me=remove.readInt();
+                            //remove the item
+                            brain.remove(me);
+                            String afre= brain.display();
+                            outputStream.writeUTF(afre);
+                        }
+                        else
+                            outputStream.writeUTF("the list is empty add some of medicine and try again");
+                        break;
+                    case 3:
+                        //update
+                        String up= brain.display();
+                        outputStream.writeUTF(up);
+                        if(!up.isEmpty()){
+                            DataInputStream update = new DataInputStream(connectionSoket.getInputStream());
+                            int updatee=update.readInt();
+                            String namee= input.readUTF();
+                            String forwhate= input.readUTF();
+                            String phare = input.readUTF();
+                            String locatione= input.readUTF();
+                            Pharmacy newbraine=new Pharmacy(namee,forwhate,phare,locatione);
+                            brain.update(updatee,newbraine);
+                            String updateee= brain.display();
+                            outputStream.writeUTF(updateee);
+                        }
+                        else
+                            outputStream.writeUTF("the list is empty add some of medicine and try again");
+                        break;
+                    case 4:
+                        //reade the medicine  sending data to user
+                        System.out.println("what is the medicine do you want to read it ?");
+                        String medicine= brain.display();
+                        if(medicine.isEmpty()){
+                            medicine="the list is empty add some of medicine and try again ";
+                        }
+                        outputStream.writeUTF(medicine);
+                        break;
+                    case 5:
+                        //testing
+                        System.out.println("we will test your crona persent  ");
+                        //taking input from user
+                        String patint= input.readUTF();
+                        int tempreture= input.readInt();
+                        int stomic = input.readInt();
+                        int Fever= input.readInt();
+                        int hedic= input.readInt();
+                        //add it  to array
+                        CronaCheek newee=new CronaCheek(patint,tempreture,stomic,Fever,hedic);
+                        ch.add2(newee);
+                        // display the patiant information
+                        String pat= ch.displayy();
+                        outputStream.writeUTF(pat);
+                        //the result of test
+                        String tempreture1=ch.display_tempreture();
+                        outputStream.writeUTF(tempreture1);
+                        String stomic1=ch.display_stomic();
+                        outputStream.writeUTF(stomic1);
+                        String Fever1=ch.display_fever();
+                        outputStream.writeUTF(Fever1);
+                        String hedic1=ch.display_hedic();
+                        outputStream.writeUTF(hedic1);
+                        String advance=ch.advance();
+                        //remove the patiant data
+                        outputStream.writeUTF(advance);
+                        ch.remove_pa();
+                        break;
+                    case 6:
+                        //sening data to user about near farmacy
+                        System.out.println("please enter the your location ");
+                        Socket socket = ServerSocket.accept();
+                        PrintWriter out=new PrintWriter(socket.getOutputStream(),true);
+                        out.println("please enter the your location  طنطا - 1  \t زفتى  - 2 \t المنصوره - 3 ");
+                        //takin input
+                        DataInputStream pharmacy = new DataInputStream(connectionSoket.getInputStream());
+                        int x = pharmacy.readInt();
+                        switch (x) {
+                            case 1:
+                                out.println("الجامعه  :  the nearest pharmacy is");
+                                break;
+                            case 2:
+                                out.println("الشعب :  the nearest pharmacy is");
+                                break;
+                            case 3:
+                                out.println("the nearest pharmacy is : 19190 ");
+                                break;
+                        }
+                        break;
+                    case 7:
+                        //sening data to user about near hospital
+                        System.out.println("please enter the nearest hospital");
+                        Socket sockete = ServerSocket.accept();
+                        PrintWriter oute=new PrintWriter(sockete.getOutputStream(),true);
+                        oute.println("please enter the your location  طنطا - 1  \t زفتى  - 2 \t المنصوره - 3 ");
+                        //takin input
+                        DataInputStream hospital = new DataInputStream(connectionSoket.getInputStream());
+                        int y = hospital.readInt();
+                        switch (y) {
+                            case 1:
+                                oute.println("   مستشفى الجامعه  :  the nearest hospital is  ");
+                                break;
+                            case 2:
+                                oute.println("مستشفى زفتى العام   :  the nearest hospital is ");
+                                break;
+                            case 3:
+                                oute.println("عمر ابن الخطاب    :  the nearest hospital is ");
+                                break;
+                        }
+
+                        break;
+                    case 8 :
+                        break loop;
+                }
+            }
+        }catch (Exception e){
+            System.out.print(e.getMessage());
+        }
+    }
+}
