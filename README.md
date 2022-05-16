@@ -19,9 +19,9 @@
 <br/>
 <p align="left">
   <a href="https://AhmedDoban.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
-     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
+     <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
   </a>
 </p>
 <br>
