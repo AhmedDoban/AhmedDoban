@@ -49,6 +49,7 @@
 </div>
 
 ## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png" width="50"> Social media You can follow me
+<div align="center" style="padding: 25px 0;">
 
 [<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/github%20(1).png' alt='github' height='40'>](https://github.com/AhmedDoban) 
 [<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmeddoban/) 
@@ -56,7 +57,8 @@
 [<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/ahmeddoban/) 
 [<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/twitter.png' alt='twitter' height='40'>](https://twitter.com/ahmed_doban)
 [<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/whatsapp.png' alt='whatsapp' height='40'  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
-
+ 
+ </div>
 <div align="center" style="padding: 25px 0;">
     <p align="center">
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
