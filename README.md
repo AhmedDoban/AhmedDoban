@@ -45,20 +45,21 @@
 
 ## Scan Code to See my Cv or "resume"
 ![App Screenshot](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
-## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png" width="50"> Social media 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedDoban) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmeddoban/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmed.doban.56) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmeddoban/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_doban)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
-
 
 </div>
+
+## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png" width="50"> Social media You can follow me
+
+[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/github%20(1).png' alt='github' height='40'>](https://github.com/AhmedDoban) 
+[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmeddoban/) 
+[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/ahmed.doban.56) 
+[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/ahmeddoban/) 
+[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/twitter.png' alt='twitter' height='40'>](https://twitter.com/ahmed_doban)
+[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/whatsapp.png' alt='whatsapp' height='40'  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
+
+<div align="center" style="padding: 25px 0;">
     <p align="center">
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p align="center">Loading</p>
   </p>
- 
+ </div>
