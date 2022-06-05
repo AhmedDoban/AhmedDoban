@@ -41,11 +41,11 @@
 
 </p>
 <hr>
-<div align="center" style="background:#414a50; padding: 25px 0;">
+<div align="center" style="padding: 25px 0;">
 
-### Scan Code to See my Cv or "resume"
+## Scan Code to See my Cv or "resume"
 ![App Screenshot](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
-### Social media 
+## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png"> Social media 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedDoban) 
