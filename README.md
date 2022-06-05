@@ -44,7 +44,7 @@
 <div align="center" style="padding: 25px 0;">
 
 ### Scan Code to See my Cv or "resume"
- ![Screenshot of GUI](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
+![Ahmed Doban CV ScanCode](https://user-images.githubusercontent.com/73547094/172069827-0735bf08-efdf-45f7-aae2-a11d8f929b03.jpg)
   
   <a href="https://ahmeddobancv.netlify.app/"> or click me</a>
   
