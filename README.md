@@ -28,34 +28,33 @@
 
 ## 💻 Languages and Tools
 <p align="center" style="padding: 25px 0;">
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/html-5.png" alt="HTML" width="55px" title="HTML">
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/css-3.png" alt="CSS" width="55px" title="CSS"/>
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/js.png" alt="javascript" width="55px" />
+    <img style="margin: 25px" src="img/programming%20language/html-5.png" alt="HTML" width="55px" title="HTML">
+    <img style="margin: 25px" src="img/programming%20language/css-3.png" alt="CSS" width="55px" title="CSS"/>
+    <img style="margin: 25px" src="img/programming%20language/js.png" alt="javascript" width="55px" />
     <br/>
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/physics.png" alt="react js" width="55px" /> 
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/bootstrap.png" alt="Linux" width="55px" title="bootstrap">
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/github.png" alt="Github" width="55px" title="Github">
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/java.png" alt="Java" width="55px" title="Java">
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/python.png" alt="Python" width="55px" title="Python"> 
-    <img style="margin: 25px" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/c-%20(1).png" alt="C++" width="60px" title="C++"> 
+    <img style="margin: 25px" src="img/programming%20language/physics.png" alt="react js" width="55px" /> 
+    <img style="margin: 25px" src="img/programming%20language/bootstrap.png" alt="Linux" width="55px" title="bootstrap">
+    <img style="margin: 25px" src="img/programming%20language/github.png" alt="Github" width="55px" title="Github">
+    <img style="margin: 25px" src="img/programming%20language/java.png" alt="Java" width="55px" title="Java">
+    <img style="margin: 25px" src="img/programming%20language/python.png" alt="Python" width="55px" title="Python"> 
+    <img style="margin: 25px" src="img/programming%20language/c-%20(1).png" alt="C++" width="60px" title="C++"> 
 
 </p>
 <hr>
 <div align="center" style="padding: 25px 0;">
 
 ### Scan Code to See my Cv or "resume"
-[![XwsWBn.jpg](https://s1.ax1x.com/2022/06/06/XwsWBn.jpg)](https://imgtu.com/i/XwsWBn)
-</div>
+<img src="img/Ahmed%20Doban%20CV%20ScanCode.jpg">
 
-## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png" width="50"> Social media You can follow me
+## <img src="img/Social%20media/bullhorn.png" width="50"> Social media You can follow me
 <div align="center" style="padding: 25px 0; margin:5px">
 
-[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/github%20(1).png' alt='github' style="margin: 10px" height='40'>](https://github.com/AhmedDoban) 
-[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/linkedin.png' alt='linkedin' height='40' style="margin: 10px">](https://www.linkedin.com/in/ahmeddoban/) 
-[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/facebook.png' alt='facebook' height='40' style="margin: 10px">](https://www.facebook.com/ahmed.doban.56) 
-[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/instagram.png' alt='instagram' height='40' style="margin: 10px">](https://www.instagram.com/ahmeddoban/) 
-[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/twitter.png' alt='twitter' height='40' style="margin: 10px">](https://twitter.com/ahmed_doban)
-[<img src='https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/whatsapp.png' alt='whatsapp' height='40' style="margin: 10px"  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
+[<img src='img/programming%20language/github%20(1).png' alt='github' style="margin: 10px" height='40'>](https://github.com/AhmedDoban) 
+[<img src='img/Social%20media/linkedin.png' alt='linkedin' height='40' style="margin: 10px">](https://www.linkedin.com/in/ahmeddoban/) 
+[<img src='img/Social%20media/facebook.png' alt='facebook' height='40' style="margin: 10px">](https://www.facebook.com/ahmed.doban.56) 
+[<img src='img/Social%20media/instagram.png' alt='instagram' height='40' style="margin: 10px">](https://www.instagram.com/ahmeddoban/) 
+[<img src='img/Social%20media/twitter.png' alt='twitter' height='40' style="margin: 10px">](https://twitter.com/ahmed_doban)
+[<img src='img/Social%20media/whatsapp.png' alt='whatsapp' height='40' style="margin: 10px"  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
  
  </div>
 <div align="center" style="padding: 25px 0;">
