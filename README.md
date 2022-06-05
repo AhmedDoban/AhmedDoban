@@ -43,21 +43,25 @@
 <hr>
 <div align="center" style="padding: 25px 0;">
 
-### Scan Code to See my Cv or "resume"
-![Ahmed Doban CV ScanCode](https://user-images.githubusercontent.com/73547094/172069827-0735bf08-efdf-45f7-aae2-a11d8f929b03.jpg)
+### Scan Code or click to See my Cv or "resume"
+<a href="https://ahmeddobancv.netlify.app/"> 
+<img src="https://user-images.githubusercontent.com/73547094/172069827-0735bf08-efdf-45f7-aae2-a11d8f929b03.jpg">
+</a>
+
+
   
-  <a href="https://ahmeddobancv.netlify.app/"> or click me</a>
   
-## <img src="img/Social%20media/bullhorn.png" width="50"> Social media You can follow me
+  
+## <img src="https://user-images.githubusercontent.com/73547094/172070539-0d549d98-8da9-4b05-83f8-2b13328dcbe0.png" width="50" color="#fff"> Social media You can follow me
   
 <div align="center" style="padding: 25px 0; margin:5px">
 
 [<img src='https://user-images.githubusercontent.com/73547094/172070412-de8c00a9-6ef2-4e34-9dec-e0eca44101b7.png' alt='github' style="margin: 10px" height='40'>](https://github.com/AhmedDoban) 
-[<img src='img/Social%20media/linkedin.png' alt='linkedin' height='40' style="margin: 10px">](https://www.linkedin.com/in/ahmeddoban/) 
-[<img src='img/Social%20media/facebook.png' alt='facebook' height='40' style="margin: 10px">](https://www.facebook.com/ahmed.doban.56) 
-[<img src='img/Social%20media/instagram.png' alt='instagram' height='40' style="margin: 10px">](https://www.instagram.com/ahmeddoban/) 
-[<img src='img/Social%20media/twitter.png' alt='twitter' height='40' style="margin: 10px">](https://twitter.com/ahmed_doban)
-[<img src='img/Social%20media/whatsapp.png' alt='whatsapp' height='40' style="margin: 10px" >](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
+[<img src='https://user-images.githubusercontent.com/73547094/172070614-f494088b-7e38-42b8-8333-48569fd1c3bf.png' alt='linkedin' height='40' style="margin: 10px">](https://www.linkedin.com/in/ahmeddoban/) 
+[<img src='https://user-images.githubusercontent.com/73547094/172070632-7e8332d7-be31-40c2-92fb-a3c06cdd5100.png' alt='facebook' height='40' style="margin: 10px">](https://www.facebook.com/ahmed.doban.56) 
+[<img src='https://user-images.githubusercontent.com/73547094/172070639-3a423284-e601-4b61-91e9-f43a5e8459be.png' alt='instagram' height='40' style="margin: 10px">](https://www.instagram.com/ahmeddoban/) 
+[<img src='https://user-images.githubusercontent.com/73547094/172070647-488b73c1-16dc-46ce-9deb-7a107ea6a852.png' alt='twitter' height='40' style="margin: 10px">](https://twitter.com/ahmed_doban)
+[<img src='https://user-images.githubusercontent.com/73547094/172070660-76e3862b-d300-419c-9f0d-8d7d2c475411.png' alt='whatsapp' height='40' style="margin: 10px" >](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
  
  </div>
 <div align="center" style="padding: 25px 0;">
