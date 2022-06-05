@@ -44,9 +44,12 @@
 <div align="center" style="padding: 25px 0;">
 
 ### Scan Code to See my Cv or "resume"
+  <a href="https://ahmeddobancv.netlify.app/">
  ![Screenshot of GUI](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
+  </a>
   
 ## <img src="img/Social%20media/bullhorn.png" width="50"> Social media You can follow me
+  
 <div align="center" style="padding: 25px 0; margin:5px">
 
 [<img src='img/programming%20language/github%20(1).png' alt='github' style="margin: 10px" height='40'>](https://github.com/AhmedDoban) 
