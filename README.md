@@ -28,17 +28,13 @@
 
 ## 💻 Languages and Tools
 <p align="center">
-    <!--<img src="https://bit.ly/3M9nONR" alt="Java" width="55px" title="Java">-->
     <img src="https://bit.ly/3FIIJVn" alt="HTML" width="55px" title="HTML">
     <img src="https://bit.ly/3l3qkcu" alt="CSS" width="55px" title="CSS"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55px" />
-   <!-- <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55px"/> -->
     <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55px" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Linux" width="55px" title="bootstrap">
-    <!--<img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git">-->
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github">
-
     <img src="https://bit.ly/3M9nONR" alt="Java" width="55px" title="Java">
     <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
     <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
