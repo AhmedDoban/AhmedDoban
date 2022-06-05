@@ -38,11 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Linux" width="55px" title="bootstrap">
     <!--<img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git">-->
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github">
-    <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55px"/>-->
-    <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="55px">-->
-    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="55px" />     
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55px" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55px"/>-->
+
     <img src="https://bit.ly/3M9nONR" alt="Java" width="55px" title="Java">
     <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
     <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
@@ -51,10 +47,17 @@
 <hr>
 <div align="center" style="background:#414a50; padding: 25px 0;">
 
+### Scan Code to See my Cv or "resume"
+![App Screenshot](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
 ### Social media 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedDoban)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmeddoban/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmed.doban.56)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmeddoban/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_doban)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedDoban) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmeddoban/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmed.doban.56) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmeddoban/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_doban)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
 
 
 </div>
