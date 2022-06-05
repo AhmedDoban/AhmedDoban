@@ -45,7 +45,7 @@
 
 ## Scan Code to See my Cv or "resume"
 ![App Screenshot](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
-## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png"> Social media 
+## <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/Social%20media/bullhorn.png" width="50"> Social media 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedDoban) 
