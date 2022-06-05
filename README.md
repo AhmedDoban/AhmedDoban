@@ -26,7 +26,7 @@
 </p>
 <br>
 
-## 💻 Languages and Tools
+## <img src="img/programming%20language/code.png" width="50" style="color: #fff" height="50"> Languages and Tools
 <p align="center" style="padding: 25px 0;">
     <img style="margin: 25px" src="img/programming%20language/html-5.png" alt="HTML" width="55px" title="HTML">
     <img style="margin: 25px" src="img/programming%20language/css-3.png" alt="CSS" width="55px" title="CSS"/>
@@ -57,7 +57,7 @@
 [<img src='img/Social%20media/facebook.png' alt='facebook' height='40' style="margin: 10px">](https://www.facebook.com/ahmed.doban.56) 
 [<img src='img/Social%20media/instagram.png' alt='instagram' height='40' style="margin: 10px">](https://www.instagram.com/ahmeddoban/) 
 [<img src='img/Social%20media/twitter.png' alt='twitter' height='40' style="margin: 10px">](https://twitter.com/ahmed_doban)
-[<img src='img/Social%20media/whatsapp.png' alt='whatsapp' height='40' style="margin: 10px"  style="color: #fff">](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
+[<img src='img/Social%20media/whatsapp.png' alt='whatsapp' height='40' style="margin: 10px" >](https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0)  
  
  </div>
 <div align="center" style="padding: 25px 0;">
