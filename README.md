@@ -27,23 +27,23 @@
 <br>
 
 ## 💻 Languages and Tools
-<p align="center">
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/html-5.png" alt="HTML" width="55px" title="HTML">
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/css-3.png" alt="CSS" width="55px" title="CSS"/>
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/js.png" alt="javascript" width="55px" />
+<p align="center" style="padding: 25px 0;">
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/html-5.png" alt="HTML" width="55px" title="HTML">
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/css-3.png" alt="CSS" width="55px" title="CSS"/>
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/js.png" alt="javascript" width="55px" />
     <br/>
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/physics.png" alt="react js" width="55px" /> 
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/bootstrap.png" alt="Linux" width="55px" title="bootstrap">
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/github.png" alt="Github" width="55px" title="Github">
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/java.png" alt="Java" width="55px" title="Java">
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/python.png" alt="Python" width="55px" title="Python"> 
-    <img src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/c-%20(1).png" alt="C++" width="60px" title="C++"> 
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/physics.png" alt="react js" width="55px" /> 
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/bootstrap.png" alt="Linux" width="55px" title="bootstrap">
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/github.png" alt="Github" width="55px" title="Github">
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/java.png" alt="Java" width="55px" title="Java">
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/python.png" alt="Python" width="55px" title="Python"> 
+    <img style="padding: 10px;" src="https://github.com/AhmedDoban/AhmedDoban/blob/main/img/programming%20language/c-%20(1).png" alt="C++" width="60px" title="C++"> 
 
 </p>
 <hr>
 <div align="center" style="padding: 25px 0;">
 
-## Scan Code to See my Cv or "resume"
+### Scan Code to See my Cv or "resume"
 ![App Screenshot](img/Ahmed%20Doban%20CV%20ScanCode.jpg)
 
 </div>
