@@ -27,18 +27,35 @@
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/73547094/172070282-8b4c29d1-4f66-4d64-a4a4-7462a737ae6e.png" width="50" style="color: #fff" height="50"> Languages and Tools
-<p align="center" style="padding: 25px 0;">
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070444-5d8bd304-cbdc-4787-b856-debcae981375.png" alt="HTML" width="55px" title="HTML">
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070390-3cdccb9f-dffc-4fbd-a3e1-b8eabff838b7.png" alt="CSS" width="55px" title="CSS"/>
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070461-7ca30244-7962-455b-95b1-bd8fd150879b.png" alt="javascript" width="55px" />
+<p align="center" style="padding:25px" >
+   <code>
+     <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070444-5d8bd304-cbdc-4787-b856-debcae981375.png" alt="HTML" width="90px" title="HTML">
+     </code>
+   <code> 
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070390-3cdccb9f-dffc-4fbd-a3e1-b8eabff838b7.png" alt="CSS" width="90px" title="CSS"/> 
+    </code>
+     <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070461-7ca30244-7962-455b-95b1-bd8fd150879b.png" alt="javascript" width="90px" />
+     </code>
     <br/>
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070470-177f8e7c-c1c5-47f7-9603-5e1b4973e0f4.png" alt="react js" width="55px" /> 
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070328-44c9ad6b-aa80-4e49-92fe-d711bbe9a0d9.png" alt="Linux" width="55px" title="bootstrap">
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070431-ee7a300c-1ba4-4d8e-b252-0b60de48a86d.png" alt="Github" width="55px" title="Github">
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070498-510ec600-86aa-43df-9e68-3e27694f0b30.png" alt="Java" width="55px" title="Java">
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070512-cab598ff-fe7b-42c9-a72d-c0e3aa3795cc.png" alt="Python" width="55px" title="Python"> 
-    <img style="margin: 25px" src="https://user-images.githubusercontent.com/73547094/172070371-a98f29f3-ffdb-4092-b540-0e2184a84d7c.png" alt="C++" width="60px" title="C++"> 
-
+     <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070470-177f8e7c-c1c5-47f7-9603-5e1b4973e0f4.png" alt="react js" width="90px" /> 
+     </code>
+     <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070328-44c9ad6b-aa80-4e49-92fe-d711bbe9a0d9.png" alt="Linux" width="90px" title="bootstrap">
+     </code>
+     <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070431-ee7a300c-1ba4-4d8e-b252-0b60de48a86d.png" alt="Github" width="90px" title="Github">
+     </code>
+      <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070498-510ec600-86aa-43df-9e68-3e27694f0b30.png" alt="Java" width="90px" title="Java">
+     </code>
+      <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070512-cab598ff-fe7b-42c9-a72d-c0e3aa3795cc.png" alt="Python" width="90px" title="Python"> 
+     </code>
+      <code>
+    <img style="padding:15px" src="https://user-images.githubusercontent.com/73547094/172070371-a98f29f3-ffdb-4092-b540-0e2184a84d7c.png" alt="C++" width="80px" title="C++"> 
+ </code>
 </p>
 <hr>
 <div align="center" style="padding: 25px 0;">
