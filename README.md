@@ -3,18 +3,22 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-
+  
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ddd&center=true&vCenter=true&width=550&lines=I'm+Ahmed+Doban;Computer+Science+Student;Web+Developer;I+Always+have+a+passion+for+coding+and+learning" alt="Typing SVG"  >
 
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40"/> My Github Status
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=3&theme=onedark&no-frame=true" alt="ahmeddoban" width="49%" />
+<div align="center">
+     
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=3&theme=onedark&no-frame=true" alt="ahmeddoban"  />
+
+</div>
 
 ##
 
