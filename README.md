@@ -9,21 +9,39 @@
 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40"/> My Github Status
+<font size="1">
+    <hr>
+</font>
+
+<font size="5">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40"/> My Github Status
+</font>
+
+<font size="1">
+    <hr>
+</font>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
 <img src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=3&theme=onedark&no-frame=true" alt="ahmeddoban" width="49%" />
 
-##
+<font size="1">
+    <hr>
+</font>
 
-## <p align="center"> 👨‍💻 Languages and Tools </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<p align="center"> <font size="5">👨‍💻 Languages and Tools </font> </p> <p align="center"> <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=false" alt="bootstrap"  width="60" height="55"/> <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&&text=false" alt="css3"  width="60" height="55"/> <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false" alt="html5"  width="60" height="55"/><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&&text=false" alt="javascript" width="60" height="55"/><img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="react" width="60" height="55"/>
+
+</p>
+
+<font size="1">
+    <hr>
+</font>
+
+<p align="center"> <font size="5">😉Connect With Me </font> </p> <p align="center"> <a href="https://twitter.com/ahmed_doban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_doban" height="30" width="40" /></a> <a href="https://linkedin.com/in/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeddoban" height="30" width="40" /></a><a href="https://fb.com/ahmed.doban.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.doban.56" height="30" width="40" /></a><a href="https://instagram.com/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmeddoban" height="30" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73547094/172070660-76e3862b-d300-419c-9f0d-8d7d2c475411.png" alt="ahmeddoban" height="30" width="30" /></a>
 
 </p>
 
-## <p align="center"> 😉Connect With Me </p> <p align="center"> <a href="https://twitter.com/ahmed_doban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_doban" height="30" width="40" /></a> <a href="https://linkedin.com/in/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeddoban" height="30" width="40" /></a><a href="https://fb.com/ahmed.doban.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.doban.56" height="30" width="40" /></a><a href="https://instagram.com/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmeddoban" height="30" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73547094/172070660-76e3862b-d300-419c-9f0d-8d7d2c475411.png" alt="ahmeddoban" height="30" width="30" /></a>
 
-</p>
 
 <img src="https://user-images.githubusercontent.com/73547094/221947262-b48c0896-e879-4ec8-84c5-7c7e4696add9.gif" >
