@@ -1,34 +1,22 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73547094/221947258-a7af8887-f5e7-4c21-933c-e7ab22c706a5.gif" >
+</div>
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ddd&center=true&vCenter=true&width=550&lines=I'm+Ahmed+Doban;Computer+Science+Student;Web+Developer;I+Always+have+a+passion+for+coding+and+learning" alt="Typing SVG"  >
+
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40"/> My Github Status
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=3&theme=onedark&no-frame=true" alt="ahmeddoban" width="49%" />
 
 ##
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=125AF7&center=true&vCenter=true&lines=I'm+Ahmed+Doban;Computer+Science+Student;Web+Developer;I+Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
-
-<div align="center">
-
-<a href="https://ahmeddobancv.netlify.app/"> 
-<img src="https://user-images.githubusercontent.com/73547094/172069827-0735bf08-efdf-45f7-aae2-a11d8f929b03.jpg"width="120" height="120" >
-</a>
-<p align="center">Scan Code or click to See my Cv or "resume"</p>
-</div>
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50"/> My Github Status
-
-<br/>
-<p align="center">
-  <a href="https://AhmedDoban.dev/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
-     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&layout=compact&hide_border=true" />
-        <img src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=3&theme=onedark&no-frame=true" alt="ahmeddoban" /> 
-  </a>
-</p>
-
-<hr>
 
 ## <p align="center"> 👨‍💻 Languages and Tools </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
@@ -38,7 +26,4 @@
 
 </p>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p align="center">Loading</p>
-</p>
+<img src="https://user-images.githubusercontent.com/73547094/221947262-b48c0896-e879-4ec8-84c5-7c7e4696add9.gif" >
