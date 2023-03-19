@@ -16,8 +16,9 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&hide_border=true" />
-<img src="https://raw.githubusercontent.com/AhmedDoban/CodeForce/main/output/light_card.svg#gh-dark-mode-only" width="48%" />
-<img width="100%"  src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=2&column=5&theme=onedark&no-frame=true" alt="ahmeddoban"  />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ahmeddoban&theme=dark&icon_color='4c71f2'&border_color" width="48%" />
+<img width="96%"  src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=5&theme=onedark&no-frame=true" alt="ahmeddoban"  />
+
 </div>
 
 ##
