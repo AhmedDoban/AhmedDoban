@@ -35,9 +35,114 @@
 # Languages and Tools
 -------------------------------------------->
 
-## <p align="center"> 👨‍💻 Languages and Tools </p> <p align="center"> <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=false" alt="bootstrap"  width="60" height="55"/> <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&&text=false" alt="css3"  width="60" height="55"/> <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false" alt="html5"  width="60" height="55"/><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&&text=false" alt="javascript" width="60" height="55"/><img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="react" width="60" height="55"/><img src="https://readme-components.vercel.app/api?component=logo&logo=Cplusplus&text=false" alt="cpp" width="60" height="55"/>
+## <p align="center"> 👨‍💻 Languages and Tools </p>
 
-</p>
+<details open>
+    <summary>Front End Develpment Tools</summary>
+
+    - HTML
+    - Css
+    - Sass
+    - material design UI
+    - Bootstrab
+    - Java Script (JS)
+    - React JS
+    - Redux
+    - Redux Toolkit
+
+</details>
+         
+<div align="center">
+<!-- HTML-->
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false" alt="html5"  width="60" height="55"/>
+ <!--Style css3-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=css3&&text=false" alt="css3"  width="60" height="55"/>
+ <!--Style sass-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=sass&text=false" alt="sass" width="60" height="55"/>
+ <!--Style materialdesign-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=materialdesign&text=false" alt="materialdesign" width="60" height="55"/>
+<!--Style bootstrap-->
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=false" alt="bootstrap"  width="60" height="55"/>
+<!--Develop javascript-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&&text=false" alt="javascript" width="60" height="55"/>
+<!--Framework react JS-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="react" width="60" height="55"/>
+<!--Framework redux JS-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=redux&text=false&animation=spin" alt="redux" width="60" height="55"/>
+</div>
+
+<details open>
+    <summary>Back End Develpment Tools</summary>
+
+    - Mongo Bd
+    - Nodej js
+    - Express js
+
+</details>
+<div align="center">
+<!--Backend Mongo DB -->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&text=false" alt="mongodb" width="60" height="55"/>
+<!--Backend Node JS-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false" alt="node" width="60" height="55"/>
+</div>
+
+<details open>
+    <summary>Servers I used</summary>
+
+    - Git
+    - Github
+    - Netlify
+    - code sandbox
+    - codepen
+    - Vercle
+
+</details>
+<div align="center">
+<!--Servers Git-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false" alt="git" width="60" height="55"/>
+<!--Servers GitHub-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false" alt="github" width="60" height="55"/>
+<!--Servers Netlify-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=netlify&text=false" alt="netlify" width="60" height="55"/>
+<!--Servers Code Sandbox-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=codesandbox&text=false" alt="codesandbox" width="60" height="55"/>
+<!--Servers codepen-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=codepen&text=false" alt="codepen" width="60" height="55"/>
+<!--Servers Vercle-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=vercel&text=false" alt="vercel" width="60" height="55"/>
+</div>
+
+<details open>
+    <summary>Other Tools and knowledge</summary>
+
+    - C++
+    - Java
+    - visual studio code
+    - intellij idea
+    - Adobe photoshop
+    - Adobe lightroom
+    - Adobe XD
+
+</details>
+
+<div align="center">
+<!--knowledge cpp-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=Cplusplus&text=false" alt="cpp" width="60" height="55"/>
+<!--knowledge cpp-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false" alt="cpp" width="60" height="55"/>
+<!--Tool visual studio code-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false" alt="visualstudiocode" width="60" height="55"/>
+<!--Tool intellij idea-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=intellijidea&text=false" alt="intellijidea" width="60" height="55"/>
+<!--knowledge adobe photoshop-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=adobephotoshop&text=false" alt="adobephotoshop" width="60" height="55"/>
+<!--knowledge adobelightroomclassic-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=adobelightroomclassic&text=false" alt="adobelightroomclassic" width="60" height="55"/>
+<!--knowledge adobexd-->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=adobexd&text=false" alt="adobexd" width="60" height="55"/>
+</div>
+
+##
 
 <!-----------------------------------------
 # Connect With Me
