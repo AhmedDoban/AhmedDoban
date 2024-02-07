@@ -25,7 +25,8 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&hide_border=true" />
 <img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=ahmeddoban&theme=dark&icon_color='4c71f2'&border_color" />
-<img width="96%"  src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=5&theme=onedark&no-frame=true" alt="ahmeddoban"  />
+<img width="48%"  src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=5&theme=onedark&no-frame=true" alt="ahmeddoban"  />
+<img width="48%"  src="https://github.r2v.ch/codewars?user=Ahmed%20Doban&stroke=%23BB432C&top_languages=true" alt="CodeWars"  />
 
 </div>
 
