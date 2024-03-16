@@ -75,7 +75,7 @@
 <details open>
     <summary>Back End Develpment Tools</summary>
 
-    - Mongo Bd
+    - Mongo DB
     - Nodej js
     - Express js
 
