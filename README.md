@@ -1,160 +1,127 @@
-<!-----------------------------------------
-# Landing
--------------------------------------------->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73547094/221947258-a7af8887-f5e7-4c21-933c-e7ab22c706a5.gif" >
-</div>
+### Hi there, I'm Ahmed Doban! 👋
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Full-Stack+Web+Developer;Computer+Science+Graduate;Software+Engineer;React+%26+Node.js+Specialist;Building+Scalable+Web+Applications;Code+Architect+%26+Problem+Solver;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG">
+</p>
+
+## 🚀 About Me
+
+I'm a passionate **Computer Science Graduate** and **Full-Stack Web Developer** with extensive experience in modern web technologies. I specialize in creating scalable, efficient, and user-friendly applications that solve real-world problems and deliver exceptional user experiences.
+
+- 🔭 I'm currently working in **O-Projects company**
+- 🌱 I'm constantly learning and exploring **new technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, MongoDB, or anything tech-related**
+- 📫 How to reach me: **ahmedheshamdoban@gmail.com**
+- ⚡ Fun fact: **I always have a passion for coding and learning!**
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+### 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🎨 CSS Frameworks & UI Libraries
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### ✨ Animation & 3D Libraries
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-FF6B35?style=for-the-badge&logo=aos&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-00D4AA?style=for-the-badge&logo=airbnb&logoColor=white)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Development Tools & IDEs
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pNPM](https://img.shields.io/badge/pNPM-CB3837?style=for-the-badge&logo=pnpm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🚀 Deployment & Hosting
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+### 🧰 Development Environment & Tools
+
+![CodeSandbox](https://img.shields.io/badge/CodeSandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+### 🎨 Design & Creative Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
   
-<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ddd&center=true&vCenter=true&width=550&lines=I'm+Ahmed+Doban;Computer+Science+Student;Web+Developer;I+Always+have+a+passion+for+coding+and+learning" alt="Typing SVG"  >
-
-</p>
-
-<!-----------------------------------------
-# My Github Status
--------------------------------------------->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40"/> My Github Status
-
-<div align="center">
-     
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedDoban&show_icons=true&theme=dark&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDoban&theme=dark&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDoban&theme=dark&hide_border=true" />
-<img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=ahmeddoban&theme=dark&icon_color='4c71f2'&border_color" />
-<img width="48%"  src="https://github-profile-trophy.vercel.app/?username=ahmeddoban&row=1&column=5&theme=onedark&no-frame=true" alt="ahmeddoban"  />
-<img width="48%"  src="https://github.r2v.ch/codewars?user=Ahmed%20Doban&stroke=%23BB432C&top_languages=true" alt="CodeWars"  />
+  **Let's connect and build something amazing together!**
+  
+  <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddoban)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmed_doban)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ahmed.doban.56)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmeddoban)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=201032040389&text&app_absent=0)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ahmeddoban)
 
 </div>
 
-##
-
-<!-----------------------------------------
-# Languages and Tools
--------------------------------------------->
-
-## <p align="center"> 👨‍💻 Languages and Tools </p>
-
-<details open>
-    <summary>Front End Develpment Tools</summary>
-
-    - HTML
-    - Css
-    - Sass
-    - material design UI
-    - Bootstrab
-    - Java Script (JS)
-    - React JS
-    - Redux
-    - Redux Toolkit
-
-</details>
-         
-<div align="center">
-<!-- HTML-->
- <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false" alt="html5"  width="60" height="55"/>
- <!--Style css3-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=css3&&text=false" alt="css3"  width="60" height="55"/>
- <!--Style sass-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=sass&text=false" alt="sass" width="60" height="55"/>
- <!--Style materialdesign-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=materialdesign&text=false" alt="materialdesign" width="60" height="55"/>
-<!--Style bootstrap-->
- <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=false" alt="bootstrap"  width="60" height="55"/>
-<!--Develop javascript-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&&text=false" alt="javascript" width="60" height="55"/>
-<!--Framework react JS-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="react" width="60" height="55"/>
-<!--Framework redux JS-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=redux&text=false&animation=spin" alt="redux" width="60" height="55"/>
-</div>
-
-<details open>
-    <summary>Back End Develpment Tools</summary>
-
-    - Mongo Bd
-    - Nodej js
-    - Express js
-
-</details>
-<div align="center">
-<!--Backend Mongo DB -->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&text=false" alt="mongodb" width="60" height="55"/>
-<!--Backend Node JS-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false" alt="node" width="60" height="55"/>
-</div>
-
-<details open>
-    <summary>Servers I used</summary>
-
-    - Git
-    - Github
-    - Netlify
-    - code sandbox
-    - codepen
-    - Vercle
-
-</details>
-<div align="center">
-<!--Servers Git-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false" alt="git" width="60" height="55"/>
-<!--Servers GitHub-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false" alt="github" width="60" height="55"/>
-<!--Servers Netlify-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=netlify&text=false" alt="netlify" width="60" height="55"/>
-<!--Servers Code Sandbox-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=codesandbox&text=false" alt="codesandbox" width="60" height="55"/>
-<!--Servers codepen-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=codepen&text=false" alt="codepen" width="60" height="55"/>
-<!--Servers Vercle-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=vercel&text=false" alt="vercel" width="60" height="55"/>
-</div>
-
-<details open>
-    <summary>Other Tools and knowledge</summary>
-
-    - C++
-    - Java
-    - visual studio code
-    - intellij idea
-    - Adobe photoshop
-    - Adobe lightroom
-    - Adobe XD
-
-</details>
+---
 
 <div align="center">
-<!--knowledge cpp-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=Cplusplus&text=false" alt="cpp" width="60" height="55"/>
-<!--knowledge cpp-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false" alt="cpp" width="60" height="55"/>
-<!--Tool visual studio code-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false" alt="visualstudiocode" width="60" height="55"/>
-<!--Tool intellij idea-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=intellijidea&text=false" alt="intellijidea" width="60" height="55"/>
-<!--knowledge adobe photoshop-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=adobephotoshop&text=false" alt="adobephotoshop" width="60" height="55"/>
-<!--knowledge adobelightroomclassic-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=adobelightroomclassic&text=false" alt="adobelightroomclassic" width="60" height="55"/>
-<!--knowledge adobexd-->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=adobexd&text=false" alt="adobexd" width="60" height="55"/>
+  
+  ### ⭐ Show some love by starring some repositories if you find them helpful! ⭐
+
+### **Made with ❤️ by Ahmed Doban**
+
 </div>
-
-##
-
-<!-----------------------------------------
-# Connect With Me
--------------------------------------------->
-
-## <p align="center"> 😉Connect With Me </p> <p align="center"><!--CodeForce--><a href="https://codeforces.com/profile/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmeddoban" height="30" width="30" /></a><!--End CodeForce--> <!--Twitter--><a href="https://twitter.com/ahmed_doban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_doban" height="30" width="40" /></a><!-- End Twitter--> <!--Linked in--> <a href="https://linkedin.com/in/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeddoban" height="30" width="40" /></a><!-- End Linked in--> <!--Facebook--><a href="https://fb.com/ahmed.doban.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.doban.56" height="30" width="40" /></a><!--End Facebook--> <!--Insta--><a href="https://instagram.com/ahmeddoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmeddoban" height="30" width="40" /></a><!--End Insta--> <!--whatsapp--><a href="https://api.whatsapp.com/send/?phone=201555894860&text&app_absent=0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73547094/172070660-76e3862b-d300-419c-9f0d-8d7d2c475411.png" alt="ahmeddoban" height="30" width="30" /></a><!--End whatsapp-->
-
-</p>
-
-<!-----------------------------------------
-# Footer
--------------------------------------------->
-
-<img src="https://user-images.githubusercontent.com/73547094/221947262-b48c0896-e879-4ec8-84c5-7c7e4696add9.gif" >
